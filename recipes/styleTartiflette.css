@@ -1,0 +1,17 @@
+* {
+  font-family: "Segoe UI", sans-serif;
+}
+
+.h3-1, .h3-2, .h3-3 {
+  text-align: center;
+  background-color: rgb(250, 199, 123);
+}
+
+.ul-1 {
+  font-size: 20px;
+}
+
+.p-3 {
+  font-style: italic;
+  color: royalblue;
+}
