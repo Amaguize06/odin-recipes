@@ -1,0 +1,25 @@
+* {
+  font-family: "Segoe UI", sans-serif;
+}
+
+.h1-1 {
+  margin: 50px;
+  text-align: center;
+}
+
+.a-1, .a-2 {
+  margin: 50px;
+  display: block;
+  width: 200px;
+  padding: 50px;
+  text-align: center;
+  background-color: lightblue;
+}
+
+.a-1 {
+  
+}
+
+.a-2 {
+  
+}
